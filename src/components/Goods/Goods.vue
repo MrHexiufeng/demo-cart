@@ -14,7 +14,7 @@
     <!-- 右侧信息区域 -->
     <div class="goods-info">
       <!-- 商品标题 -->
-      <h6 class="goods-title">商品名称商品名称商品名称商品名称</h6>
+      <h6 class="goods-title">商品名称商品名称商品名称商品名称1122</h6>
       <div class="goods-info-bottom">
         <!-- 商品价格 -->
         <span class="goods-price">￥0</span>
